@@ -1,0 +1,11 @@
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\bin\Debug\netcoreapp2.2\CrawlerDemo.deps.json
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\bin\Debug\netcoreapp2.2\CrawlerDemo.runtimeconfig.json
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\bin\Debug\netcoreapp2.2\CrawlerDemo.runtimeconfig.dev.json
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\bin\Debug\netcoreapp2.2\CrawlerDemo.dll
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.csprojAssemblyReference.cache
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.csproj.CoreCompileInputs.cache
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.AssemblyInfoInputs.cache
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.AssemblyInfo.cs
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\bin\Debug\netcoreapp2.2\CrawlerDemo.pdb
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.dll
+C:\Users\zeele\source\repos\CrawlerDemo\CrawlerDemo\obj\Debug\netcoreapp2.2\CrawlerDemo.pdb
